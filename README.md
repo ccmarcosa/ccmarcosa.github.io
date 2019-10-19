@@ -3,7 +3,7 @@ Project with Next.js and SSR
 ---
 
 This project demo can be found at:
-ccmarcosa.github.io
+https://ccmarcosa.github.io
 
 To run this project demo in your local machine follow the next step:
 
